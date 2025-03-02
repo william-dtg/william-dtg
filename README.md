@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### Look at this awesome README
+I'm a student at UOA studying software engineering!
 
 <!--
 **william-dtg/william-dtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
